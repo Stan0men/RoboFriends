@@ -2,6 +2,11 @@
 Simple app on React.js with filter
 
 ---
+##### Here you can see an example 
+http://skrinshoter.ru/s/080119/3RkTIlZv?a
+
+
+---
 
 ##### Technologies:
 1. React.js
@@ -13,6 +18,4 @@ Simple app on React.js with filter
 2. npm install
 3. npm start
 
----
-##### Here you can see an example 
-http://skrinshoter.ru/s/080119/3RkTIlZv?a
+
