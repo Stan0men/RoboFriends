@@ -3,7 +3,9 @@ Simple app on React.js with filter
 
 ---
 ##### Here you can see an example 
-http://skrinshoter.ru/s/080119/3RkTIlZv?a
+![Link](http://skrinshoter.ru/s/080119/3RkTIlZv?a)
+
+
 
 
 ---
