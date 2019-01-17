@@ -2,9 +2,8 @@
 Simple app on React.js with filter
 
 ---
-##### Here you can see an example 
-![Link](http://skrinshoter.ru/s/080119/3RkTIlZv?a)
-
+## Preview
+https://user-images.githubusercontent.com/23480671/51311477-af771180-1a51-11e9-9d49-d5a1334d4b85.png
 
 
 
